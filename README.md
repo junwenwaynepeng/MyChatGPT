@@ -12,13 +12,6 @@ The selected code will be automatically filled in the command palette so that yo
 
 > Related Packages: https://github.com/yaroslavyaroslav/OpenAI-sublime-text
 
-### Automated Installation
-
-Waiting for Package Control approval: https://github.com/wbond/package_control_channel/pull/8675
-
-1. `Preferences` > `Package Control` > `Install Package`
-2. Search `ChatGPT`
-
 ### Manual Installation
 
 1. Click the `Preferences` > `Browse Packages…` menu.
